@@ -6,10 +6,11 @@ The objective of this project is to explore complaint patterns across different 
 <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/Complaints%20Data.csv">Complaints Data</a>  
 <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/State%20Map%20Data.csv">State Map Data</a>
 
+## KPI Metrics:
+- Total number of complaints (2012–2017)
+- Complaint share by product category (2012–2017)
 
 ## Dashboard Overview
-- Total number of complaints received during the 2012–2017 period
-- Percentage of complaints by product category (2012–2017)
 - The “Complaints Per Year” chart shows the percentage of complaints for each category within each year, which is driven by the “Select Product” filter in the top-right corner.
 - The “Request Type” chart shows the percentage distribution of complaints by submission channel across all complaints or within each category, expressed as percentages, and can be updated by the “Select Product” filter.
 - The “State Wise Map / Tile Chart” visualizes the geographic distribution of total complaints or complaints by category across states through map or tile views, and can be updated by the “Select Product” and “Select Map” filters.
