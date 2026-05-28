@@ -2,7 +2,8 @@
 ## project objective
 
 ## dataset used
-- <a href="https://drive.google.com/drive/folders/1oc20CqlX1xF9sYRLVFc-6z7g0gITpOXk">Dataset</a>
+- <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/complaints_Full%20Data.csv">Complaints Data</a>
+- <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/complaints_Full%20Data.csv">Complaints Data</a>
 
 ## questions(kpis)
 -
