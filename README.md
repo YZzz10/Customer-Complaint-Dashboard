@@ -20,8 +20,8 @@ The objective of this project is to explore bank complaint patterns across diffe
 <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/Book2_17786133419830/CustomerComplaintDashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Process
-- Missing values were handled within the dashboard by excluding null entries to ensure clarity and accuracy in the charts.
 - The “Date Received” field was incorrectly interpreted by Tableau as a year-first format. This issue was resolved by converting the field to string and re-parsing it using DATEPARSE("dd-MMM-yy", [Date Received]) to ensure accurate time-series analysis.
+- Missing values were handled within the dashboard by excluding null entries to ensure clarity and accuracy in the charts.
 
 ## Dashboard
 <img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/c245314d-fdc7-45a3-8249-0824aa3fec47" />
