@@ -7,7 +7,7 @@ The objective of this project is to explore complaint patterns across different 
 <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/State%20Map%20Data.csv">State Map Data</a>
 
 
-## questions(kpis)
+## Dashboard Overview
 - Total number of complaints received during the 2012–2017 period
 - Percentage of complaints by product category (2012–2017)
 - The “Complaints Per Year” chart shows the percentage of complaints for each category within each year, which is driven by the “Select Product” filter in the top-right corner.
