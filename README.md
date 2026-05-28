@@ -1,6 +1,6 @@
-# Customer Complaint Dashboard
+# Bank Customer Complaint Analysis Dashboard
 ## Project Objective
-The objective of this project is to explore complaint patterns across different product categories, submission channels, and geographic regions, and to understand how these trends change over time.
+The objective of this project is to explore bank complaint patterns across different product categories, submission channels, and geographic regions, and to understand how these trends change over time.
 
 ## Dataset Used
 <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/Complaints%20Data.csv">Consumer Complaint Dataset</a>  
