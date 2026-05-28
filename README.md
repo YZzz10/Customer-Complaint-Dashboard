@@ -3,8 +3,8 @@
 The objective of this project is to explore complaint patterns across different product categories, submission channels, and geographic regions, and to understand how these trends change over time.
 
 ## dataset used
-- <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/Complaints%20Data.csv">Complaints Data</a>
-- <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/State%20Map%20Data.csv">State Map Data</a>
+<a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/Complaints%20Data.csv">Complaints Data</a>  
+<a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/State%20Map%20Data.csv">State Map Data</a>
 
 
 ## questions(kpis)
