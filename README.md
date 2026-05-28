@@ -3,7 +3,7 @@
 The objective of this project is to explore bank complaint patterns across different product categories, submission channels, and geographic regions, and to understand how these trends change over time.
 
 ## Dataset Used
-<a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/Complaints%20Data.csv">Consumer Complaint Dataset</a>  
+<a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/Complaints%20Data.csv">Customer Complaint Dataset</a>  
 <a href="https://github.com/YZzz10/Customer-Complaint-Dashboard/blob/main/State%20Map%20Data.csv">State Mapping Dataset</a>
 
 ## KPI Metrics:
