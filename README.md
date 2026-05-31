@@ -28,9 +28,10 @@ The objective of this project is to explore bank complaint patterns across diffe
 
 
 ## Project Insight
--
--
--
+- A total of 72,431 complaints were recorded between Dec 2011 and Oct 2020, with product distribution concentrated in Other (27.23%) and Credit Card (26.11%), indicating a relatively high share of non-standardized or broad complaint categories.
+- Complaints are geographically concentrated, with California (12,107) being the highest, followed by New York (6,841), Florida (6,750), and Texas (5,537), suggesting that a small number of states account for a large proportion of total complaints.
+- Submission channels are heavily dominated by Web (52.07%), followed by Referral (29.51%) and Phone (9.84%), indicating strong reliance on digital submission platforms.
+- Time series analysis shows that complaint volumes peaked in 2017–2019 (8,000–9,000 range), while other years remained relatively stable at approximately 6,000–7,000 complaints, suggesting a temporary increase in reporting activity during this period.
 
 ## Final Conclusion
 -
